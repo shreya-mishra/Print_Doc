@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "print_doc",
+    "slug": "print_doc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "print_doc"
+}
